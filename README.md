@@ -16,7 +16,6 @@ Em julho de 2020 iniciei os estudos em Ciência de Dados através de um Bootcamp
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Como realizar tarefas do Excel em Python:**
 
